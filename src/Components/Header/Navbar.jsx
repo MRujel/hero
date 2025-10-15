@@ -1,9 +1,12 @@
 import React from 'react';
 import logo from '../../assets/logo.png'
+import { Link } from 'react-router';
+import git from '../../assets/fi_2111432.png'
+
 
 const Navbar = () => {
     return (
-        <div className='max-w-[1200px]'>
+        <div className='max-w-[1200px] mx-auto mb-4'>
             <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">
     <div className="dropdown">
@@ -14,9 +17,11 @@ const Navbar = () => {
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
         <li><a>Home</a></li>
+        <Link to='/apps'>
         <li>
-          <a>Apps</a>
+          Apps
         </li>
+        </Link>
         <li><a>Installation</a></li>
       </ul>
     </div>
@@ -27,16 +32,22 @@ const Navbar = () => {
     </a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
+    <ul className="flex justify-center items-center gap-2 px-1">
+      <Link to='/'>
+      <li>Home</li>
+      </Link>
+      <Link to='/apps'>
       <li>
-          <summary>Apps</summary>
+        Apps
       </li>
-      <li><a>Installation</a></li>
+        </Link>
+      <Link to='/installation'>
+      <li>Installation</li>
+      </Link>
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+    <a className='btn bg-[linear-gradient(125.07deg,#632EE3,rgba(159,98,242,1)_100%)] text-white textarea-lg px-5'><img src={git} alt="" /> Contribute</a>
   </div>
 </div>
         </div>

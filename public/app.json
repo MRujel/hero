@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "ChatNow Messenger",
+    "companyName": "CommuniTech Global",
+    "id": 101,
+    "description": "Secure, fast, and feature-rich instant messaging platform for seamless global communication.",
+    "size": 85,
+    "reviews": 125432,
+    "ratingAvg": 4.5,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "5 star", "count": 55432 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "1 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "FitPal Trainer Pro",
+    "companyName": "Health & Motion Labs",
+    "id": 102,
+    "description": "Your personal AI-powered fitness and workout companion with personalized plans.",
+    "size": 130,
+    "reviews": 56789,
+    "ratingAvg": 4.8,
+    "downloads": "5.5M",
+    "ratings": [
+      { "name": "5 star", "count": 36789 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "1 star", "count": 1000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "QuickEdit Photo Studio",
+    "companyName": "PixelPerfect Software",
+    "id": 103,
+    "description": "Fast and easy-to-use mobile photo editing with professional filters and tools.",
+    "size": 95,
+    "reviews": 98765,
+    "ratingAvg": 4.2,
+    "downloads": "8.9M",
+    "ratings": [
+      { "name": "5 star", "count": 37765 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "1 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "TaskMaster Planner",
+    "companyName": "Productivity Dynamics",
+    "id": 104,
+    "description": "The ultimate to-do list, calendar, and task management system for busy professionals.",
+    "size": 45,
+    "reviews": 32100,
+    "ratingAvg": 4.6,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "5 star", "count": 18600 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "1 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "StarLight RPG",
+    "companyName": "Galactic Gaming Studios",
+    "id": 105,
+    "description": "An open-world sci-fi role-playing game with stunning graphics and deep lore.",
+    "size": 2500,
+    "reviews": 210000,
+    "ratingAvg": 4.4,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "5 star", "count": 90000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "EatSmart Recipes",
+    "companyName": "Culinary Apps Inc.",
+    "id": 106,
+    "description": "Thousands of healthy, easy-to-follow recipes for every diet and cooking skill level.",
+    "size": 70,
+    "reviews": 45678,
+    "ratingAvg": 4.7,
+    "downloads": "4.8M",
+    "ratings": [
+      { "name": "5 star", "count": 27878 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "1 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "WorldNews Daily",
+    "companyName": "Global Media Corp",
+    "id": 107,
+    "description": "Real-time, unbiased news coverage from top international sources.",
+    "size": 60,
+    "reviews": 78900,
+    "ratingAvg": 4.1,
+    "downloads": "10.5M",
+    "ratings": [
+      { "name": "5 star", "count": 13900 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "CodeLearn Academy",
+    "companyName": "DevSkills Platform",
+    "id": 108,
+    "description": "Learn coding languages like Python, JavaScript, and SQL with interactive courses.",
+    "size": 150,
+    "reviews": 25000,
+    "ratingAvg": 4.9,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "5 star", "count": 19200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "3 star", "count": 500 },
+      { "name": "2 star", "count": 200 },
+      { "name": "1 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "Soundscape Music Player",
+    "companyName": "AudioStream Systems",
+    "id": 109,
+    "description": "High-fidelity music streaming and offline playback with custom equalizer settings.",
+    "size": 110,
+    "reviews": 150000,
+    "ratingAvg": 4.3,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "5 star", "count": 55000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "HomeSecure Monitor",
+    "companyName": "SmartLiving Solutions",
+    "id": 110,
+    "description": "Connect and manage your smart home security cameras and devices remotely.",
+    "size": 55,
+    "reviews": 18500,
+    "ratingAvg": 4.0,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "5 star", "count": 4500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "1 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "BudgetPro Finance",
+    "companyName": "FinSense Inc.",
+    "id": 111,
+    "description": "Track your spending, set budgets, and achieve financial freedom with easy-to-use tools.",
+    "size": 40,
+    "reviews": 51000,
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "5 star", "count": 32000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "1 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/jk2Msz2g/demo-app-4.webp",
+    "title": "TravelGuide Explorer",
+    "companyName": "Wanderlust Digital",
+    "id": 112,
+    "description": "Offline maps, city guides, and travel tips for thousands of destinations worldwide.",
+    "size": 210,
+    "reviews": 65432,
+    "ratingAvg": 4.5,
+    "downloads": "7.5M",
+    "ratings": [
+      { "name": "5 star", "count": 25432 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "1 star", "count": 4000 }
+    ]
+  }
+]
