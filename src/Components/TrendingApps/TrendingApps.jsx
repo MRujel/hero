@@ -21,7 +21,7 @@ const TrendingApps = ({data}) => {
             </Suspense>
             
             <Link to='/apps'><div className='flex justify-center mt-4'>
-                <button className='btn bg-gradient-to-r from-[#632ee3] to-[#9f62f2] mt-4 mx-auto text-xl font-bold'>Show More</button>
+                <button className=' text-white btn bg-gradient-to-r from-[#632ee3] to-[#9f62f2] mt-4 mx-auto text-xl font-bold'>Show More</button>
             </div></Link>
 
             
