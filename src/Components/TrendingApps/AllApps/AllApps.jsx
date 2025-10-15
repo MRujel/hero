@@ -3,13 +3,13 @@ import dbutton from '../../../assets/icon-downloads.png'
 import star from '../../../assets/icon-ratings.png'
 import { Link } from 'react-router';
 const AllApps = ({app}) => {
-    const { image, title, companyName, description, size, reviews, ratingAvg, downloads, ratings } = app;
+    const { image, title, downloads } = app;
     return (
         <div>
             <Link to={`/appdetails/${app.id}`}>
             <div className='max-w-[1200px] mx-auto px-2 sm:px-4'>
                         <div className='bg-white p-3 sm:p-4 shadow-sm rounded-lg'>
-                            <img className='w-full h-32 sm:h-40 md:h-48 object-cover rounded-md'  src={image} alt="" />
+                            <img className='w-full  md:h-48 object-cover rounded-md'  src={image} alt="" />
                             <h3 className='my-2 font-semibold'>{title}</h3>
                             <div className='flex justify-between'>
                                 <button className= 'btn bg-[#f1f5e8] flex items-center w-24'>
